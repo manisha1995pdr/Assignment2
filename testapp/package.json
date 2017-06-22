@@ -1,0 +1,17 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.6",
+    "node-restful": "^0.2.6"
+  }
+}
